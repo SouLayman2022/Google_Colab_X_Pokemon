@@ -1,6 +1,6 @@
-- # Hi, </br>This is a small tuto
-- # Showing the steps to load files into your online google colab environement
-- # We will be analyzing a POKEMON dataset as well, links are below ;)
+- ### Hi, </br>This is a small tuto
+- ### Showing the steps to load files into your online google colab environement
+- ### We will be analyzing a POKEMON dataset as well, links are below ;)
 
 </br>
 <img src="./ColabXPokemon.png">
